@@ -93,7 +93,7 @@ echo "==================================<br>";
 
 echo "This is 'sqrt()' function<br><br>";
 echo sqrt(64);     # 8
-echo "<br><br>.....................END.....................<br>";
+echo "<br><br>.....................END.....................<br><br><br><br>";
 
 ?>
 
@@ -151,7 +151,7 @@ echo "<br>======================================================================
 $b = "  Hello, this is Atharva Deshpande  ";
 echo "This is 'trim()' function<br>";
 echo "Trimming whitespace from '$b' : ".trim($b);   # Hello, this is Atharva Deshpande
-echo "<br>..................................END..................................<br>";
+echo "<br>..................................END..................................<br><br><br><br>";
 
 ?>
 
@@ -205,6 +205,6 @@ echo "<br>=============================<br>";
 $timestamp = strtotime("next Wednesday");
 echo "Next date of Wednesday is : ".date("d/m/Y",$timestamp);
 
-echo "<br><br>.....................END.....................<br>";
+echo "<br><br>.....................END.....................<br><br><br><br>";
 
 ?>
