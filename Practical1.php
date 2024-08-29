@@ -151,7 +151,7 @@ echo "<br>======================================================================
 $b = "  Hello, this is Atharva Deshpande  ";
 echo "This is 'trim()' function<br>";
 echo "Trimming whitespace from '$b' : ".trim($b);   # Hello, this is Atharva Deshpande
-echo "<br>..................................END..................................<br><br><br><br>";
+echo "<br><br>..................................END..................................<br><br><br><br>";
 
 ?>
 
